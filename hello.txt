@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 mastermaster111111111111
 sfsdlfjsfks
 master
-=======
 dev1dev1111111111111111111
 1111111111
 1112222
 dev1dev1
->>>>>>> dev1
+
